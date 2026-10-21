@@ -1,0 +1,17 @@
+[
+ {
+  "id": "det_1",
+  "name": "Caustic 2% (NaOH)",
+  "qr": "QR-DET-001"
+ },
+ {
+  "id": "det_2",
+  "name": "Acid 1% (HNO3/H3PO4)",
+  "qr": "QR-DET-002"
+ },
+ {
+  "id": "det_3",
+  "name": "Peracetic acid sanitiser",
+  "qr": "QR-DET-003"
+ }
+]

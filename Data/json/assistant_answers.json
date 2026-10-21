@@ -1,0 +1,63 @@
+[
+ {
+  "q": "Why is FV-07 slow?",
+  "a": "Slow start (lag about 60 h vs 24 h typical), lager strain at generation 6 with 82% viability, extract flat for 3 days. Check original gravity and pitch rate.",
+  "cites": [
+   "al_slow_fv07",
+   "yg_2655",
+   "qwx_FV-07.apparent_extract"
+  ]
+ },
+ {
+  "q": "When will FV-01 be ready?",
+  "a": "Forecast end 2026-10-22T12:00:00Z (range 2026-10-22T06:00:00Z to 2026-10-22T18:00:00Z).",
+  "cites": [
+   "bat_2607"
+  ]
+ },
+ {
+  "q": "Which sensors need an accuracy check?",
+  "a": "QWX43 on FV-02: air/water check overdue by 17 days; Offset last done 125 days ago.",
+  "cites": [
+   "chk_FV-02_air",
+   "off_FV-02"
+  ]
+ },
+ {
+  "q": "How is the lager strain doing?",
+  "a": "Viability fell from 96% at generation 1 to 82% at generation 6; consider a fresh pitch.",
+  "cites": [
+   "al_yeast_lager"
+  ]
+ },
+ {
+  "q": "Why is the Pale Ale batch blocked?",
+  "a": "VDK 0.16 mg/l above the 0.10 specification; buttery off-flavour in the panel.",
+  "cites": [
+   "lr_bat_2678_vdk",
+   "tp_bat_2678"
+  ]
+ },
+ {
+  "q": "What happened to the brewhouse data yesterday?",
+  "a": "The Profinet feed was offline for 40 minutes; the gateway buffered and backfilled the data.",
+  "cites": [
+   "al_gw_bh",
+   "gw_ap_01"
+  ]
+ },
+ {
+  "q": "Show last month's excise.",
+  "a": "September 2026 draft total 21404.91 (placeholder rate).",
+  "cites": [
+   "exc_2026_09"
+  ]
+ },
+ {
+  "q": "Which tanks were cleaned today?",
+  "a": "FV-05, detected CIP, detergent not yet confirmed.",
+  "cites": [
+   "cip_2639"
+  ]
+ }
+]

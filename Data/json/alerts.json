@@ -1,0 +1,79 @@
+[
+ {
+  "id": "al_slow_fv07",
+  "rule": "slow_fermentation",
+  "severity": "critical",
+  "target": "bat_2655",
+  "vessel_id": "FV-07",
+  "evidence": [
+   "qwx_FV-07.apparent_extract",
+   "yg_2655",
+   "similar: last 3 Helles batches"
+  ],
+  "state": "open",
+  "raised_at": "2026-10-20T22:00:00Z"
+ },
+ {
+  "id": "al_acc_fv02",
+  "rule": "accuracy_check_overdue",
+  "severity": "warning",
+  "target": "qwx_FV-02",
+  "vessel_id": "FV-02",
+  "evidence": [
+   "chk_FV-02_air",
+   "off_FV-02"
+  ],
+  "state": "open",
+  "raised_at": "2026-10-04T08:00:00Z"
+ },
+ {
+  "id": "al_cip_fv05",
+  "rule": "cip_detergent_unconfirmed",
+  "severity": "info",
+  "target": "cip_2639",
+  "vessel_id": "FV-05",
+  "evidence": [
+   "qwx_FV-05.sound_velocity"
+  ],
+  "state": "open",
+  "raised_at": "2026-10-21T07:00:00Z"
+ },
+ {
+  "id": "al_gw_bh",
+  "rule": "feed_offline",
+  "severity": "warning",
+  "target": "plc_BH-01",
+  "vessel_id": "BH-01",
+  "evidence": [
+   "gw_ap_01",
+   "40 min outage; buffered readings backfilled"
+  ],
+  "state": "resolved",
+  "raised_at": "2026-10-20T12:05:00Z",
+  "resolved_at": "2026-10-20T12:40:00Z"
+ },
+ {
+  "id": "al_vdk_pale",
+  "rule": "release_blocked",
+  "severity": "critical",
+  "target": "bat_2678",
+  "vessel_id": "FV-10",
+  "evidence": [
+   "lr_bat_2678_vdk"
+  ],
+  "state": "open",
+  "raised_at": "2026-10-21T06:00:00Z"
+ },
+ {
+  "id": "al_yeast_lager",
+  "rule": "yeast_viability_low",
+  "severity": "warning",
+  "target": "W-34/70 lager",
+  "vessel_id": null,
+  "evidence": [
+   "viability gen 6 below 85%"
+  ],
+  "state": "open",
+  "raised_at": "2026-10-13T08:00:00Z"
+ }
+]

@@ -1,0 +1,1712 @@
+[
+ {
+  "id": "lot_2601_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L86484",
+  "quantity": 924,
+  "unit": "kg",
+  "batch_id": "bat_2601"
+ },
+ {
+  "id": "lot_2601_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L62350",
+  "quantity": 7.8,
+  "unit": "kg",
+  "batch_id": "bat_2601"
+ },
+ {
+  "id": "lot_2602_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L28131",
+  "quantity": 900,
+  "unit": "kg",
+  "batch_id": "bat_2602"
+ },
+ {
+  "id": "lot_2602_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L76784",
+  "quantity": 4.3,
+  "unit": "kg",
+  "batch_id": "bat_2602"
+ },
+ {
+  "id": "lot_2603_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L24371",
+  "quantity": 924,
+  "unit": "kg",
+  "batch_id": "bat_2603"
+ },
+ {
+  "id": "lot_2603_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L30033",
+  "quantity": 7.8,
+  "unit": "kg",
+  "batch_id": "bat_2603"
+ },
+ {
+  "id": "lot_2604_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L65333",
+  "quantity": 900,
+  "unit": "kg",
+  "batch_id": "bat_2604"
+ },
+ {
+  "id": "lot_2604_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L88172",
+  "quantity": 4.3,
+  "unit": "kg",
+  "batch_id": "bat_2604"
+ },
+ {
+  "id": "lot_2605_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L71348",
+  "quantity": 924,
+  "unit": "kg",
+  "batch_id": "bat_2605"
+ },
+ {
+  "id": "lot_2605_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L79352",
+  "quantity": 7.8,
+  "unit": "kg",
+  "batch_id": "bat_2605"
+ },
+ {
+  "id": "lot_2606_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L11504",
+  "quantity": 900,
+  "unit": "kg",
+  "batch_id": "bat_2606"
+ },
+ {
+  "id": "lot_2606_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L99166",
+  "quantity": 4.3,
+  "unit": "kg",
+  "batch_id": "bat_2606"
+ },
+ {
+  "id": "lot_2607_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L80381",
+  "quantity": 924,
+  "unit": "kg",
+  "batch_id": "bat_2607"
+ },
+ {
+  "id": "lot_2607_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L44973",
+  "quantity": 7.8,
+  "unit": "kg",
+  "batch_id": "bat_2607"
+ },
+ {
+  "id": "lot_2608_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L40323",
+  "quantity": 924,
+  "unit": "kg",
+  "batch_id": "bat_2608"
+ },
+ {
+  "id": "lot_2608_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L12188",
+  "quantity": 7.8,
+  "unit": "kg",
+  "batch_id": "bat_2608"
+ },
+ {
+  "id": "lot_2609_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L79432",
+  "quantity": 924,
+  "unit": "kg",
+  "batch_id": "bat_2609"
+ },
+ {
+  "id": "lot_2609_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L46946",
+  "quantity": 7.8,
+  "unit": "kg",
+  "batch_id": "bat_2609"
+ },
+ {
+  "id": "lot_2610_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L20734",
+  "quantity": 924,
+  "unit": "kg",
+  "batch_id": "bat_2610"
+ },
+ {
+  "id": "lot_2610_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L64867",
+  "quantity": 7.8,
+  "unit": "kg",
+  "batch_id": "bat_2610"
+ },
+ {
+  "id": "lot_2611_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L67981",
+  "quantity": 924,
+  "unit": "kg",
+  "batch_id": "bat_2611"
+ },
+ {
+  "id": "lot_2611_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L86242",
+  "quantity": 7.8,
+  "unit": "kg",
+  "batch_id": "bat_2611"
+ },
+ {
+  "id": "lot_2612_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L24191",
+  "quantity": 924,
+  "unit": "kg",
+  "batch_id": "bat_2612"
+ },
+ {
+  "id": "lot_2612_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L79207",
+  "quantity": 7.8,
+  "unit": "kg",
+  "batch_id": "bat_2612"
+ },
+ {
+  "id": "lot_2613_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L33152",
+  "quantity": 924,
+  "unit": "kg",
+  "batch_id": "bat_2613"
+ },
+ {
+  "id": "lot_2613_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L61897",
+  "quantity": 7.8,
+  "unit": "kg",
+  "batch_id": "bat_2613"
+ },
+ {
+  "id": "lot_2614_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L79248",
+  "quantity": 924,
+  "unit": "kg",
+  "batch_id": "bat_2614"
+ },
+ {
+  "id": "lot_2614_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L53821",
+  "quantity": 7.8,
+  "unit": "kg",
+  "batch_id": "bat_2614"
+ },
+ {
+  "id": "lot_2615_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L70860",
+  "quantity": 900,
+  "unit": "kg",
+  "batch_id": "bat_2615"
+ },
+ {
+  "id": "lot_2615_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L41707",
+  "quantity": 4.3,
+  "unit": "kg",
+  "batch_id": "bat_2615"
+ },
+ {
+  "id": "lot_2616_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L23721",
+  "quantity": 924,
+  "unit": "kg",
+  "batch_id": "bat_2616"
+ },
+ {
+  "id": "lot_2616_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L85265",
+  "quantity": 7.8,
+  "unit": "kg",
+  "batch_id": "bat_2616"
+ },
+ {
+  "id": "lot_2617_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L94627",
+  "quantity": 900,
+  "unit": "kg",
+  "batch_id": "bat_2617"
+ },
+ {
+  "id": "lot_2617_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L94045",
+  "quantity": 4.3,
+  "unit": "kg",
+  "batch_id": "bat_2617"
+ },
+ {
+  "id": "lot_2618_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L29701",
+  "quantity": 924,
+  "unit": "kg",
+  "batch_id": "bat_2618"
+ },
+ {
+  "id": "lot_2618_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L19722",
+  "quantity": 7.8,
+  "unit": "kg",
+  "batch_id": "bat_2618"
+ },
+ {
+  "id": "lot_2619_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L91385",
+  "quantity": 900,
+  "unit": "kg",
+  "batch_id": "bat_2619"
+ },
+ {
+  "id": "lot_2619_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L12424",
+  "quantity": 4.3,
+  "unit": "kg",
+  "batch_id": "bat_2619"
+ },
+ {
+  "id": "lot_2620_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L55902",
+  "quantity": 924,
+  "unit": "kg",
+  "batch_id": "bat_2620"
+ },
+ {
+  "id": "lot_2620_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L94281",
+  "quantity": 7.8,
+  "unit": "kg",
+  "batch_id": "bat_2620"
+ },
+ {
+  "id": "lot_2621_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L57404",
+  "quantity": 924,
+  "unit": "kg",
+  "batch_id": "bat_2621"
+ },
+ {
+  "id": "lot_2621_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L58550",
+  "quantity": 7.8,
+  "unit": "kg",
+  "batch_id": "bat_2621"
+ },
+ {
+  "id": "lot_2622_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L62374",
+  "quantity": 979,
+  "unit": "kg",
+  "batch_id": "bat_2622"
+ },
+ {
+  "id": "lot_2622_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L23871",
+  "quantity": 8.2,
+  "unit": "kg",
+  "batch_id": "bat_2622"
+ },
+ {
+  "id": "lot_2623_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L48272",
+  "quantity": 1174,
+  "unit": "kg",
+  "batch_id": "bat_2623"
+ },
+ {
+  "id": "lot_2623_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L41702",
+  "quantity": 13.0,
+  "unit": "kg",
+  "batch_id": "bat_2623"
+ },
+ {
+  "id": "lot_2624_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L26782",
+  "quantity": 979,
+  "unit": "kg",
+  "batch_id": "bat_2624"
+ },
+ {
+  "id": "lot_2624_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L56938",
+  "quantity": 8.2,
+  "unit": "kg",
+  "batch_id": "bat_2624"
+ },
+ {
+  "id": "lot_2625_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L75694",
+  "quantity": 1174,
+  "unit": "kg",
+  "batch_id": "bat_2625"
+ },
+ {
+  "id": "lot_2625_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L46692",
+  "quantity": 13.0,
+  "unit": "kg",
+  "batch_id": "bat_2625"
+ },
+ {
+  "id": "lot_2626_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L94033",
+  "quantity": 979,
+  "unit": "kg",
+  "batch_id": "bat_2626"
+ },
+ {
+  "id": "lot_2626_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L20832",
+  "quantity": 8.2,
+  "unit": "kg",
+  "batch_id": "bat_2626"
+ },
+ {
+  "id": "lot_2627_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L77441",
+  "quantity": 1174,
+  "unit": "kg",
+  "batch_id": "bat_2627"
+ },
+ {
+  "id": "lot_2627_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L18815",
+  "quantity": 13.0,
+  "unit": "kg",
+  "batch_id": "bat_2627"
+ },
+ {
+  "id": "lot_2628_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L83591",
+  "quantity": 979,
+  "unit": "kg",
+  "batch_id": "bat_2628"
+ },
+ {
+  "id": "lot_2628_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L36307",
+  "quantity": 8.2,
+  "unit": "kg",
+  "batch_id": "bat_2628"
+ },
+ {
+  "id": "lot_2629_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L23977",
+  "quantity": 1174,
+  "unit": "kg",
+  "batch_id": "bat_2629"
+ },
+ {
+  "id": "lot_2629_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L10474",
+  "quantity": 13.0,
+  "unit": "kg",
+  "batch_id": "bat_2629"
+ },
+ {
+  "id": "lot_2630_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L71026",
+  "quantity": 979,
+  "unit": "kg",
+  "batch_id": "bat_2630"
+ },
+ {
+  "id": "lot_2630_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L79497",
+  "quantity": 8.2,
+  "unit": "kg",
+  "batch_id": "bat_2630"
+ },
+ {
+  "id": "lot_2631_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L11817",
+  "quantity": 1174,
+  "unit": "kg",
+  "batch_id": "bat_2631"
+ },
+ {
+  "id": "lot_2631_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L53433",
+  "quantity": 13.0,
+  "unit": "kg",
+  "batch_id": "bat_2631"
+ },
+ {
+  "id": "lot_2632_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L26651",
+  "quantity": 979,
+  "unit": "kg",
+  "batch_id": "bat_2632"
+ },
+ {
+  "id": "lot_2632_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L43017",
+  "quantity": 8.2,
+  "unit": "kg",
+  "batch_id": "bat_2632"
+ },
+ {
+  "id": "lot_2633_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L55857",
+  "quantity": 1174,
+  "unit": "kg",
+  "batch_id": "bat_2633"
+ },
+ {
+  "id": "lot_2633_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L81813",
+  "quantity": 13.0,
+  "unit": "kg",
+  "batch_id": "bat_2633"
+ },
+ {
+  "id": "lot_2634_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L16725",
+  "quantity": 979,
+  "unit": "kg",
+  "batch_id": "bat_2634"
+ },
+ {
+  "id": "lot_2634_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L93075",
+  "quantity": 8.2,
+  "unit": "kg",
+  "batch_id": "bat_2634"
+ },
+ {
+  "id": "lot_2635_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L53242",
+  "quantity": 1174,
+  "unit": "kg",
+  "batch_id": "bat_2635"
+ },
+ {
+  "id": "lot_2635_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L42317",
+  "quantity": 13.0,
+  "unit": "kg",
+  "batch_id": "bat_2635"
+ },
+ {
+  "id": "lot_2636_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L83061",
+  "quantity": 979,
+  "unit": "kg",
+  "batch_id": "bat_2636"
+ },
+ {
+  "id": "lot_2636_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L97314",
+  "quantity": 8.2,
+  "unit": "kg",
+  "batch_id": "bat_2636"
+ },
+ {
+  "id": "lot_2637_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L40561",
+  "quantity": 1174,
+  "unit": "kg",
+  "batch_id": "bat_2637"
+ },
+ {
+  "id": "lot_2637_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L44072",
+  "quantity": 13.0,
+  "unit": "kg",
+  "batch_id": "bat_2637"
+ },
+ {
+  "id": "lot_2638_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L84103",
+  "quantity": 979,
+  "unit": "kg",
+  "batch_id": "bat_2638"
+ },
+ {
+  "id": "lot_2638_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L28452",
+  "quantity": 8.2,
+  "unit": "kg",
+  "batch_id": "bat_2638"
+ },
+ {
+  "id": "lot_2639_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L85425",
+  "quantity": 1174,
+  "unit": "kg",
+  "batch_id": "bat_2639"
+ },
+ {
+  "id": "lot_2639_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L30828",
+  "quantity": 13.0,
+  "unit": "kg",
+  "batch_id": "bat_2639"
+ },
+ {
+  "id": "lot_2640_0",
+  "material": "Pale malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L12305",
+  "quantity": 1057,
+  "unit": "kg",
+  "batch_id": "bat_2640"
+ },
+ {
+  "id": "lot_2640_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L71205",
+  "quantity": 7.6,
+  "unit": "kg",
+  "batch_id": "bat_2640"
+ },
+ {
+  "id": "lot_2641_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L64350",
+  "quantity": 979,
+  "unit": "kg",
+  "batch_id": "bat_2641"
+ },
+ {
+  "id": "lot_2641_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L77779",
+  "quantity": 8.2,
+  "unit": "kg",
+  "batch_id": "bat_2641"
+ },
+ {
+  "id": "lot_2642_0",
+  "material": "Pale malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L75258",
+  "quantity": 1057,
+  "unit": "kg",
+  "batch_id": "bat_2642"
+ },
+ {
+  "id": "lot_2642_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L59677",
+  "quantity": 7.6,
+  "unit": "kg",
+  "batch_id": "bat_2642"
+ },
+ {
+  "id": "lot_2643_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L16304",
+  "quantity": 979,
+  "unit": "kg",
+  "batch_id": "bat_2643"
+ },
+ {
+  "id": "lot_2643_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L14925",
+  "quantity": 8.2,
+  "unit": "kg",
+  "batch_id": "bat_2643"
+ },
+ {
+  "id": "lot_2644_0",
+  "material": "Pale malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L71830",
+  "quantity": 1057,
+  "unit": "kg",
+  "batch_id": "bat_2644"
+ },
+ {
+  "id": "lot_2644_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L85553",
+  "quantity": 7.6,
+  "unit": "kg",
+  "batch_id": "bat_2644"
+ },
+ {
+  "id": "lot_2645_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L63674",
+  "quantity": 979,
+  "unit": "kg",
+  "batch_id": "bat_2645"
+ },
+ {
+  "id": "lot_2645_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L77814",
+  "quantity": 8.2,
+  "unit": "kg",
+  "batch_id": "bat_2645"
+ },
+ {
+  "id": "lot_2646_0",
+  "material": "Pale malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L36733",
+  "quantity": 1057,
+  "unit": "kg",
+  "batch_id": "bat_2646"
+ },
+ {
+  "id": "lot_2646_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L31907",
+  "quantity": 7.6,
+  "unit": "kg",
+  "batch_id": "bat_2646"
+ },
+ {
+  "id": "lot_2647_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L34355",
+  "quantity": 979,
+  "unit": "kg",
+  "batch_id": "bat_2647"
+ },
+ {
+  "id": "lot_2647_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L23187",
+  "quantity": 8.2,
+  "unit": "kg",
+  "batch_id": "bat_2647"
+ },
+ {
+  "id": "lot_2648_0",
+  "material": "Pale malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L24715",
+  "quantity": 1057,
+  "unit": "kg",
+  "batch_id": "bat_2648"
+ },
+ {
+  "id": "lot_2648_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L80814",
+  "quantity": 7.6,
+  "unit": "kg",
+  "batch_id": "bat_2648"
+ },
+ {
+  "id": "lot_2649_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L56641",
+  "quantity": 900,
+  "unit": "kg",
+  "batch_id": "bat_2649"
+ },
+ {
+  "id": "lot_2649_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L84430",
+  "quantity": 4.3,
+  "unit": "kg",
+  "batch_id": "bat_2649"
+ },
+ {
+  "id": "lot_2650_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L67536",
+  "quantity": 924,
+  "unit": "kg",
+  "batch_id": "bat_2650"
+ },
+ {
+  "id": "lot_2650_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L12876",
+  "quantity": 7.8,
+  "unit": "kg",
+  "batch_id": "bat_2650"
+ },
+ {
+  "id": "lot_2651_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L26174",
+  "quantity": 900,
+  "unit": "kg",
+  "batch_id": "bat_2651"
+ },
+ {
+  "id": "lot_2651_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L64423",
+  "quantity": 4.3,
+  "unit": "kg",
+  "batch_id": "bat_2651"
+ },
+ {
+  "id": "lot_2652_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L25417",
+  "quantity": 924,
+  "unit": "kg",
+  "batch_id": "bat_2652"
+ },
+ {
+  "id": "lot_2652_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L21248",
+  "quantity": 7.8,
+  "unit": "kg",
+  "batch_id": "bat_2652"
+ },
+ {
+  "id": "lot_2653_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L48516",
+  "quantity": 900,
+  "unit": "kg",
+  "batch_id": "bat_2653"
+ },
+ {
+  "id": "lot_2653_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L77878",
+  "quantity": 4.3,
+  "unit": "kg",
+  "batch_id": "bat_2653"
+ },
+ {
+  "id": "lot_2654_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L60436",
+  "quantity": 924,
+  "unit": "kg",
+  "batch_id": "bat_2654"
+ },
+ {
+  "id": "lot_2654_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L95363",
+  "quantity": 7.8,
+  "unit": "kg",
+  "batch_id": "bat_2654"
+ },
+ {
+  "id": "lot_2655_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L89321",
+  "quantity": 900,
+  "unit": "kg",
+  "batch_id": "bat_2655"
+ },
+ {
+  "id": "lot_2655_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L18188",
+  "quantity": 4.3,
+  "unit": "kg",
+  "batch_id": "bat_2655"
+ },
+ {
+  "id": "lot_2656_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L15732",
+  "quantity": 548,
+  "unit": "kg",
+  "batch_id": "bat_2656"
+ },
+ {
+  "id": "lot_2656_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L99455",
+  "quantity": 3.9,
+  "unit": "kg",
+  "batch_id": "bat_2656"
+ },
+ {
+  "id": "lot_2657_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L17012",
+  "quantity": 548,
+  "unit": "kg",
+  "batch_id": "bat_2657"
+ },
+ {
+  "id": "lot_2657_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L41155",
+  "quantity": 3.9,
+  "unit": "kg",
+  "batch_id": "bat_2657"
+ },
+ {
+  "id": "lot_2658_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L80260",
+  "quantity": 548,
+  "unit": "kg",
+  "batch_id": "bat_2658"
+ },
+ {
+  "id": "lot_2658_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L82996",
+  "quantity": 3.9,
+  "unit": "kg",
+  "batch_id": "bat_2658"
+ },
+ {
+  "id": "lot_2659_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L19833",
+  "quantity": 548,
+  "unit": "kg",
+  "batch_id": "bat_2659"
+ },
+ {
+  "id": "lot_2659_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L35653",
+  "quantity": 3.9,
+  "unit": "kg",
+  "batch_id": "bat_2659"
+ },
+ {
+  "id": "lot_2660_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L93698",
+  "quantity": 548,
+  "unit": "kg",
+  "batch_id": "bat_2660"
+ },
+ {
+  "id": "lot_2660_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L11942",
+  "quantity": 3.9,
+  "unit": "kg",
+  "batch_id": "bat_2660"
+ },
+ {
+  "id": "lot_2661_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L47638",
+  "quantity": 548,
+  "unit": "kg",
+  "batch_id": "bat_2661"
+ },
+ {
+  "id": "lot_2661_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L56147",
+  "quantity": 3.9,
+  "unit": "kg",
+  "batch_id": "bat_2661"
+ },
+ {
+  "id": "lot_2662_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L63939",
+  "quantity": 548,
+  "unit": "kg",
+  "batch_id": "bat_2662"
+ },
+ {
+  "id": "lot_2662_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L87489",
+  "quantity": 3.9,
+  "unit": "kg",
+  "batch_id": "bat_2662"
+ },
+ {
+  "id": "lot_2663_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L88429",
+  "quantity": 1540,
+  "unit": "kg",
+  "batch_id": "bat_2663"
+ },
+ {
+  "id": "lot_2663_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L87553",
+  "quantity": 13.0,
+  "unit": "kg",
+  "batch_id": "bat_2663"
+ },
+ {
+  "id": "lot_2664_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L44412",
+  "quantity": 1501,
+  "unit": "kg",
+  "batch_id": "bat_2664"
+ },
+ {
+  "id": "lot_2664_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L41176",
+  "quantity": 7.2,
+  "unit": "kg",
+  "batch_id": "bat_2664"
+ },
+ {
+  "id": "lot_2665_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L17226",
+  "quantity": 1540,
+  "unit": "kg",
+  "batch_id": "bat_2665"
+ },
+ {
+  "id": "lot_2665_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L30473",
+  "quantity": 13.0,
+  "unit": "kg",
+  "batch_id": "bat_2665"
+ },
+ {
+  "id": "lot_2666_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L29952",
+  "quantity": 1501,
+  "unit": "kg",
+  "batch_id": "bat_2666"
+ },
+ {
+  "id": "lot_2666_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L57218",
+  "quantity": 7.2,
+  "unit": "kg",
+  "batch_id": "bat_2666"
+ },
+ {
+  "id": "lot_2667_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L12367",
+  "quantity": 1540,
+  "unit": "kg",
+  "batch_id": "bat_2667"
+ },
+ {
+  "id": "lot_2667_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L70620",
+  "quantity": 13.0,
+  "unit": "kg",
+  "batch_id": "bat_2667"
+ },
+ {
+  "id": "lot_2668_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L55661",
+  "quantity": 1501,
+  "unit": "kg",
+  "batch_id": "bat_2668"
+ },
+ {
+  "id": "lot_2668_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L80053",
+  "quantity": 7.2,
+  "unit": "kg",
+  "batch_id": "bat_2668"
+ },
+ {
+  "id": "lot_2669_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L21686",
+  "quantity": 1540,
+  "unit": "kg",
+  "batch_id": "bat_2669"
+ },
+ {
+  "id": "lot_2669_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L66855",
+  "quantity": 13.0,
+  "unit": "kg",
+  "batch_id": "bat_2669"
+ },
+ {
+  "id": "lot_2670_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L61446",
+  "quantity": 1631,
+  "unit": "kg",
+  "batch_id": "bat_2670"
+ },
+ {
+  "id": "lot_2670_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L75132",
+  "quantity": 13.7,
+  "unit": "kg",
+  "batch_id": "bat_2670"
+ },
+ {
+  "id": "lot_2671_0",
+  "material": "Pale malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L10708",
+  "quantity": 1762,
+  "unit": "kg",
+  "batch_id": "bat_2671"
+ },
+ {
+  "id": "lot_2671_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L21759",
+  "quantity": 12.6,
+  "unit": "kg",
+  "batch_id": "bat_2671"
+ },
+ {
+  "id": "lot_2672_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L70597",
+  "quantity": 1631,
+  "unit": "kg",
+  "batch_id": "bat_2672"
+ },
+ {
+  "id": "lot_2672_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L99858",
+  "quantity": 13.7,
+  "unit": "kg",
+  "batch_id": "bat_2672"
+ },
+ {
+  "id": "lot_2673_0",
+  "material": "Pale malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L65724",
+  "quantity": 1762,
+  "unit": "kg",
+  "batch_id": "bat_2673"
+ },
+ {
+  "id": "lot_2673_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L31777",
+  "quantity": 12.6,
+  "unit": "kg",
+  "batch_id": "bat_2673"
+ },
+ {
+  "id": "lot_2674_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L49286",
+  "quantity": 1631,
+  "unit": "kg",
+  "batch_id": "bat_2674"
+ },
+ {
+  "id": "lot_2674_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L79738",
+  "quantity": 13.7,
+  "unit": "kg",
+  "batch_id": "bat_2674"
+ },
+ {
+  "id": "lot_2675_0",
+  "material": "Pale malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L62395",
+  "quantity": 1762,
+  "unit": "kg",
+  "batch_id": "bat_2675"
+ },
+ {
+  "id": "lot_2675_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L59099",
+  "quantity": 12.6,
+  "unit": "kg",
+  "batch_id": "bat_2675"
+ },
+ {
+  "id": "lot_2676_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L42482",
+  "quantity": 1631,
+  "unit": "kg",
+  "batch_id": "bat_2676"
+ },
+ {
+  "id": "lot_2676_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L11855",
+  "quantity": 13.7,
+  "unit": "kg",
+  "batch_id": "bat_2676"
+ },
+ {
+  "id": "lot_2677_0",
+  "material": "Pale malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L87498",
+  "quantity": 1762,
+  "unit": "kg",
+  "batch_id": "bat_2677"
+ },
+ {
+  "id": "lot_2677_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L66080",
+  "quantity": 12.6,
+  "unit": "kg",
+  "batch_id": "bat_2677"
+ },
+ {
+  "id": "lot_2678_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L70826",
+  "quantity": 1631,
+  "unit": "kg",
+  "batch_id": "bat_2678"
+ },
+ {
+  "id": "lot_2678_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L99478",
+  "quantity": 13.7,
+  "unit": "kg",
+  "batch_id": "bat_2678"
+ },
+ {
+  "id": "lot_2679_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L28542",
+  "quantity": 1958,
+  "unit": "kg",
+  "batch_id": "bat_2679"
+ },
+ {
+  "id": "lot_2679_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L70616",
+  "quantity": 21.6,
+  "unit": "kg",
+  "batch_id": "bat_2679"
+ },
+ {
+  "id": "lot_2680_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L98228",
+  "quantity": 1958,
+  "unit": "kg",
+  "batch_id": "bat_2680"
+ },
+ {
+  "id": "lot_2680_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L36189",
+  "quantity": 21.6,
+  "unit": "kg",
+  "batch_id": "bat_2680"
+ },
+ {
+  "id": "lot_2681_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L66604",
+  "quantity": 1958,
+  "unit": "kg",
+  "batch_id": "bat_2681"
+ },
+ {
+  "id": "lot_2681_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L65408",
+  "quantity": 21.6,
+  "unit": "kg",
+  "batch_id": "bat_2681"
+ },
+ {
+  "id": "lot_2682_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L26813",
+  "quantity": 1958,
+  "unit": "kg",
+  "batch_id": "bat_2682"
+ },
+ {
+  "id": "lot_2682_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L78148",
+  "quantity": 21.6,
+  "unit": "kg",
+  "batch_id": "bat_2682"
+ },
+ {
+  "id": "lot_2683_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L70557",
+  "quantity": 1958,
+  "unit": "kg",
+  "batch_id": "bat_2683"
+ },
+ {
+  "id": "lot_2683_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L81845",
+  "quantity": 21.6,
+  "unit": "kg",
+  "batch_id": "bat_2683"
+ },
+ {
+  "id": "lot_2684_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L72303",
+  "quantity": 1958,
+  "unit": "kg",
+  "batch_id": "bat_2684"
+ },
+ {
+  "id": "lot_2684_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L72391",
+  "quantity": 21.6,
+  "unit": "kg",
+  "batch_id": "bat_2684"
+ },
+ {
+  "id": "lot_2685_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L91070",
+  "quantity": 1958,
+  "unit": "kg",
+  "batch_id": "bat_2685"
+ },
+ {
+  "id": "lot_2685_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L55891",
+  "quantity": 21.6,
+  "unit": "kg",
+  "batch_id": "bat_2685"
+ },
+ {
+  "id": "lot_2686_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L83734",
+  "quantity": 1958,
+  "unit": "kg",
+  "batch_id": "bat_2686"
+ },
+ {
+  "id": "lot_2686_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L79628",
+  "quantity": 21.6,
+  "unit": "kg",
+  "batch_id": "bat_2686"
+ },
+ {
+  "id": "lot_2687_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L99090",
+  "quantity": 1958,
+  "unit": "kg",
+  "batch_id": "bat_2687"
+ },
+ {
+  "id": "lot_2687_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L45487",
+  "quantity": 21.6,
+  "unit": "kg",
+  "batch_id": "bat_2687"
+ },
+ {
+  "id": "lot_2688_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L96857",
+  "quantity": 1958,
+  "unit": "kg",
+  "batch_id": "bat_2688"
+ },
+ {
+  "id": "lot_2688_1",
+  "material": "Citra",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L62506",
+  "quantity": 21.6,
+  "unit": "kg",
+  "batch_id": "bat_2688"
+ },
+ {
+  "id": "lot_2689_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L24926",
+  "quantity": 914,
+  "unit": "kg",
+  "batch_id": "bat_2689"
+ },
+ {
+  "id": "lot_2689_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L63821",
+  "quantity": 6.5,
+  "unit": "kg",
+  "batch_id": "bat_2689"
+ },
+ {
+  "id": "lot_2690_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L57522",
+  "quantity": 1501,
+  "unit": "kg",
+  "batch_id": "bat_2690"
+ },
+ {
+  "id": "lot_2690_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L88887",
+  "quantity": 7.2,
+  "unit": "kg",
+  "batch_id": "bat_2690"
+ },
+ {
+  "id": "lot_2691_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L97424",
+  "quantity": 914,
+  "unit": "kg",
+  "batch_id": "bat_2691"
+ },
+ {
+  "id": "lot_2691_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L34274",
+  "quantity": 6.5,
+  "unit": "kg",
+  "batch_id": "bat_2691"
+ },
+ {
+  "id": "lot_2692_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L69749",
+  "quantity": 1501,
+  "unit": "kg",
+  "batch_id": "bat_2692"
+ },
+ {
+  "id": "lot_2692_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L32945",
+  "quantity": 7.2,
+  "unit": "kg",
+  "batch_id": "bat_2692"
+ },
+ {
+  "id": "lot_2693_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L14424",
+  "quantity": 914,
+  "unit": "kg",
+  "batch_id": "bat_2693"
+ },
+ {
+  "id": "lot_2693_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L79669",
+  "quantity": 6.5,
+  "unit": "kg",
+  "batch_id": "bat_2693"
+ },
+ {
+  "id": "lot_2694_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L65184",
+  "quantity": 1501,
+  "unit": "kg",
+  "batch_id": "bat_2694"
+ },
+ {
+  "id": "lot_2694_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L76133",
+  "quantity": 7.2,
+  "unit": "kg",
+  "batch_id": "bat_2694"
+ },
+ {
+  "id": "lot_2695_0",
+  "material": "Pilsner malt",
+  "supplier": "Weyermann",
+  "supplier_lot": "L78527",
+  "quantity": 914,
+  "unit": "kg",
+  "batch_id": "bat_2695"
+ },
+ {
+  "id": "lot_2695_1",
+  "material": "Hallertauer Tradition",
+  "supplier": "BarthHaas",
+  "supplier_lot": "L75228",
+  "quantity": 6.5,
+  "unit": "kg",
+  "batch_id": "bat_2695"
+ }
+]
