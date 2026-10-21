@@ -1,0 +1,29 @@
+{
+ "id": "gw_ap_01",
+ "site_id": "site_ap",
+ "status": "online",
+ "buffer_fill_pct": 0,
+ "last_sync": "2026-10-21T07:59:00Z",
+ "feeds": [
+  {
+   "protocol": "opcua",
+   "status": "connected"
+  },
+  {
+   "protocol": "modbus",
+   "status": "connected"
+  },
+  {
+   "protocol": "profinet",
+   "status": "connected"
+  },
+  {
+   "protocol": "netilion",
+   "status": "connected"
+  },
+  {
+   "protocol": "eh_system",
+   "status": "connected"
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+[
+ {
+  "id": "tk_1",
+  "type": "confirm_cip_detergent",
+  "target": "FV-05",
+  "assignee": "u_cellar_operator",
+  "due": "2026-10-21T10:00:00Z",
+  "status": "open"
+ },
+ {
+  "id": "tk_2",
+  "type": "accuracy_check",
+  "target": "qwx_FV-02",
+  "assignee": "u_technologist",
+  "due": "2026-10-22T08:00:00Z",
+  "status": "open"
+ },
+ {
+  "id": "tk_3",
+  "type": "check_original_gravity_and_pitch",
+  "target": "FV-07",
+  "assignee": "u_head_brewer",
+  "due": "2026-10-21T12:00:00Z",
+  "status": "open"
+ },
+ {
+  "id": "tk_4",
+  "type": "re_test_vdk",
+  "target": "bat_2678",
+  "assignee": "u_lab_technician",
+  "due": "2026-10-22T08:00:00Z",
+  "status": "open"
+ }
+]

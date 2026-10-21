@@ -1,0 +1,37 @@
+[
+ {
+  "id": "u_head_brewer",
+  "name": "Lena Fischer",
+  "role": "head_brewer"
+ },
+ {
+  "id": "u_cellar_operator",
+  "name": "Tomas Weber",
+  "role": "cellar_operator"
+ },
+ {
+  "id": "u_lab_technician",
+  "name": "Mira Koch",
+  "role": "lab_technician"
+ },
+ {
+  "id": "u_quality_manager",
+  "name": "Jonas Braun",
+  "role": "quality_manager"
+ },
+ {
+  "id": "u_technologist",
+  "name": "Anna Schulz",
+  "role": "technologist"
+ },
+ {
+  "id": "u_production_manager",
+  "name": "Paul Wagner",
+  "role": "production_manager"
+ },
+ {
+  "id": "u_finance",
+  "name": "Eva Hoffmann",
+  "role": "finance"
+ }
+]

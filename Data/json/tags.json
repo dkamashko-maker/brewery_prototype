@@ -1,0 +1,856 @@
+[
+ {
+  "id": "qwx_FV-01.density",
+  "device_id": "qwx_FV-01",
+  "parameter": "density",
+  "unit": "g/cm3",
+  "address": "netilion:density"
+ },
+ {
+  "id": "qwx_FV-01.viscosity",
+  "device_id": "qwx_FV-01",
+  "parameter": "viscosity",
+  "unit": "mPa.s",
+  "address": "netilion:viscosity"
+ },
+ {
+  "id": "qwx_FV-01.sound_velocity",
+  "device_id": "qwx_FV-01",
+  "parameter": "sound_velocity",
+  "unit": "m/s",
+  "address": "netilion:sound_velocity"
+ },
+ {
+  "id": "qwx_FV-01.temperature",
+  "device_id": "qwx_FV-01",
+  "parameter": "temperature",
+  "unit": "degC",
+  "address": "netilion:temperature"
+ },
+ {
+  "id": "qwx_FV-01.apparent_extract",
+  "device_id": "qwx_FV-01",
+  "parameter": "apparent_extract",
+  "unit": "degP",
+  "address": "netilion:apparent_extract"
+ },
+ {
+  "id": "qwx_FV-01.real_extract",
+  "device_id": "qwx_FV-01",
+  "parameter": "real_extract",
+  "unit": "degP",
+  "address": "netilion:real_extract"
+ },
+ {
+  "id": "qwx_FV-01.alcohol_vol",
+  "device_id": "qwx_FV-01",
+  "parameter": "alcohol_vol",
+  "unit": "%vol",
+  "address": "netilion:alcohol_vol"
+ },
+ {
+  "id": "qwx_FV-02.density",
+  "device_id": "qwx_FV-02",
+  "parameter": "density",
+  "unit": "g/cm3",
+  "address": "netilion:density"
+ },
+ {
+  "id": "qwx_FV-02.viscosity",
+  "device_id": "qwx_FV-02",
+  "parameter": "viscosity",
+  "unit": "mPa.s",
+  "address": "netilion:viscosity"
+ },
+ {
+  "id": "qwx_FV-02.sound_velocity",
+  "device_id": "qwx_FV-02",
+  "parameter": "sound_velocity",
+  "unit": "m/s",
+  "address": "netilion:sound_velocity"
+ },
+ {
+  "id": "qwx_FV-02.temperature",
+  "device_id": "qwx_FV-02",
+  "parameter": "temperature",
+  "unit": "degC",
+  "address": "netilion:temperature"
+ },
+ {
+  "id": "qwx_FV-02.apparent_extract",
+  "device_id": "qwx_FV-02",
+  "parameter": "apparent_extract",
+  "unit": "degP",
+  "address": "netilion:apparent_extract"
+ },
+ {
+  "id": "qwx_FV-02.real_extract",
+  "device_id": "qwx_FV-02",
+  "parameter": "real_extract",
+  "unit": "degP",
+  "address": "netilion:real_extract"
+ },
+ {
+  "id": "qwx_FV-02.alcohol_vol",
+  "device_id": "qwx_FV-02",
+  "parameter": "alcohol_vol",
+  "unit": "%vol",
+  "address": "netilion:alcohol_vol"
+ },
+ {
+  "id": "qwx_FV-03.density",
+  "device_id": "qwx_FV-03",
+  "parameter": "density",
+  "unit": "g/cm3",
+  "address": "netilion:density"
+ },
+ {
+  "id": "qwx_FV-03.viscosity",
+  "device_id": "qwx_FV-03",
+  "parameter": "viscosity",
+  "unit": "mPa.s",
+  "address": "netilion:viscosity"
+ },
+ {
+  "id": "qwx_FV-03.sound_velocity",
+  "device_id": "qwx_FV-03",
+  "parameter": "sound_velocity",
+  "unit": "m/s",
+  "address": "netilion:sound_velocity"
+ },
+ {
+  "id": "qwx_FV-03.temperature",
+  "device_id": "qwx_FV-03",
+  "parameter": "temperature",
+  "unit": "degC",
+  "address": "netilion:temperature"
+ },
+ {
+  "id": "qwx_FV-03.apparent_extract",
+  "device_id": "qwx_FV-03",
+  "parameter": "apparent_extract",
+  "unit": "degP",
+  "address": "netilion:apparent_extract"
+ },
+ {
+  "id": "qwx_FV-03.real_extract",
+  "device_id": "qwx_FV-03",
+  "parameter": "real_extract",
+  "unit": "degP",
+  "address": "netilion:real_extract"
+ },
+ {
+  "id": "qwx_FV-03.alcohol_vol",
+  "device_id": "qwx_FV-03",
+  "parameter": "alcohol_vol",
+  "unit": "%vol",
+  "address": "netilion:alcohol_vol"
+ },
+ {
+  "id": "qwx_FV-04.density",
+  "device_id": "qwx_FV-04",
+  "parameter": "density",
+  "unit": "g/cm3",
+  "address": "netilion:density"
+ },
+ {
+  "id": "qwx_FV-04.viscosity",
+  "device_id": "qwx_FV-04",
+  "parameter": "viscosity",
+  "unit": "mPa.s",
+  "address": "netilion:viscosity"
+ },
+ {
+  "id": "qwx_FV-04.sound_velocity",
+  "device_id": "qwx_FV-04",
+  "parameter": "sound_velocity",
+  "unit": "m/s",
+  "address": "netilion:sound_velocity"
+ },
+ {
+  "id": "qwx_FV-04.temperature",
+  "device_id": "qwx_FV-04",
+  "parameter": "temperature",
+  "unit": "degC",
+  "address": "netilion:temperature"
+ },
+ {
+  "id": "qwx_FV-04.apparent_extract",
+  "device_id": "qwx_FV-04",
+  "parameter": "apparent_extract",
+  "unit": "degP",
+  "address": "netilion:apparent_extract"
+ },
+ {
+  "id": "qwx_FV-04.real_extract",
+  "device_id": "qwx_FV-04",
+  "parameter": "real_extract",
+  "unit": "degP",
+  "address": "netilion:real_extract"
+ },
+ {
+  "id": "qwx_FV-04.alcohol_vol",
+  "device_id": "qwx_FV-04",
+  "parameter": "alcohol_vol",
+  "unit": "%vol",
+  "address": "netilion:alcohol_vol"
+ },
+ {
+  "id": "qwx_FV-05.density",
+  "device_id": "qwx_FV-05",
+  "parameter": "density",
+  "unit": "g/cm3",
+  "address": "netilion:density"
+ },
+ {
+  "id": "qwx_FV-05.viscosity",
+  "device_id": "qwx_FV-05",
+  "parameter": "viscosity",
+  "unit": "mPa.s",
+  "address": "netilion:viscosity"
+ },
+ {
+  "id": "qwx_FV-05.sound_velocity",
+  "device_id": "qwx_FV-05",
+  "parameter": "sound_velocity",
+  "unit": "m/s",
+  "address": "netilion:sound_velocity"
+ },
+ {
+  "id": "qwx_FV-05.temperature",
+  "device_id": "qwx_FV-05",
+  "parameter": "temperature",
+  "unit": "degC",
+  "address": "netilion:temperature"
+ },
+ {
+  "id": "qwx_FV-05.apparent_extract",
+  "device_id": "qwx_FV-05",
+  "parameter": "apparent_extract",
+  "unit": "degP",
+  "address": "netilion:apparent_extract"
+ },
+ {
+  "id": "qwx_FV-05.real_extract",
+  "device_id": "qwx_FV-05",
+  "parameter": "real_extract",
+  "unit": "degP",
+  "address": "netilion:real_extract"
+ },
+ {
+  "id": "qwx_FV-05.alcohol_vol",
+  "device_id": "qwx_FV-05",
+  "parameter": "alcohol_vol",
+  "unit": "%vol",
+  "address": "netilion:alcohol_vol"
+ },
+ {
+  "id": "qwx_FV-06.density",
+  "device_id": "qwx_FV-06",
+  "parameter": "density",
+  "unit": "g/cm3",
+  "address": "netilion:density"
+ },
+ {
+  "id": "qwx_FV-06.viscosity",
+  "device_id": "qwx_FV-06",
+  "parameter": "viscosity",
+  "unit": "mPa.s",
+  "address": "netilion:viscosity"
+ },
+ {
+  "id": "qwx_FV-06.sound_velocity",
+  "device_id": "qwx_FV-06",
+  "parameter": "sound_velocity",
+  "unit": "m/s",
+  "address": "netilion:sound_velocity"
+ },
+ {
+  "id": "qwx_FV-06.temperature",
+  "device_id": "qwx_FV-06",
+  "parameter": "temperature",
+  "unit": "degC",
+  "address": "netilion:temperature"
+ },
+ {
+  "id": "qwx_FV-06.apparent_extract",
+  "device_id": "qwx_FV-06",
+  "parameter": "apparent_extract",
+  "unit": "degP",
+  "address": "netilion:apparent_extract"
+ },
+ {
+  "id": "qwx_FV-06.real_extract",
+  "device_id": "qwx_FV-06",
+  "parameter": "real_extract",
+  "unit": "degP",
+  "address": "netilion:real_extract"
+ },
+ {
+  "id": "qwx_FV-06.alcohol_vol",
+  "device_id": "qwx_FV-06",
+  "parameter": "alcohol_vol",
+  "unit": "%vol",
+  "address": "netilion:alcohol_vol"
+ },
+ {
+  "id": "qwx_FV-07.density",
+  "device_id": "qwx_FV-07",
+  "parameter": "density",
+  "unit": "g/cm3",
+  "address": "netilion:density"
+ },
+ {
+  "id": "qwx_FV-07.viscosity",
+  "device_id": "qwx_FV-07",
+  "parameter": "viscosity",
+  "unit": "mPa.s",
+  "address": "netilion:viscosity"
+ },
+ {
+  "id": "qwx_FV-07.sound_velocity",
+  "device_id": "qwx_FV-07",
+  "parameter": "sound_velocity",
+  "unit": "m/s",
+  "address": "netilion:sound_velocity"
+ },
+ {
+  "id": "qwx_FV-07.temperature",
+  "device_id": "qwx_FV-07",
+  "parameter": "temperature",
+  "unit": "degC",
+  "address": "netilion:temperature"
+ },
+ {
+  "id": "qwx_FV-07.apparent_extract",
+  "device_id": "qwx_FV-07",
+  "parameter": "apparent_extract",
+  "unit": "degP",
+  "address": "netilion:apparent_extract"
+ },
+ {
+  "id": "qwx_FV-07.real_extract",
+  "device_id": "qwx_FV-07",
+  "parameter": "real_extract",
+  "unit": "degP",
+  "address": "netilion:real_extract"
+ },
+ {
+  "id": "qwx_FV-07.alcohol_vol",
+  "device_id": "qwx_FV-07",
+  "parameter": "alcohol_vol",
+  "unit": "%vol",
+  "address": "netilion:alcohol_vol"
+ },
+ {
+  "id": "qwx_FV-08.density",
+  "device_id": "qwx_FV-08",
+  "parameter": "density",
+  "unit": "g/cm3",
+  "address": "netilion:density"
+ },
+ {
+  "id": "qwx_FV-08.viscosity",
+  "device_id": "qwx_FV-08",
+  "parameter": "viscosity",
+  "unit": "mPa.s",
+  "address": "netilion:viscosity"
+ },
+ {
+  "id": "qwx_FV-08.sound_velocity",
+  "device_id": "qwx_FV-08",
+  "parameter": "sound_velocity",
+  "unit": "m/s",
+  "address": "netilion:sound_velocity"
+ },
+ {
+  "id": "qwx_FV-08.temperature",
+  "device_id": "qwx_FV-08",
+  "parameter": "temperature",
+  "unit": "degC",
+  "address": "netilion:temperature"
+ },
+ {
+  "id": "qwx_FV-08.apparent_extract",
+  "device_id": "qwx_FV-08",
+  "parameter": "apparent_extract",
+  "unit": "degP",
+  "address": "netilion:apparent_extract"
+ },
+ {
+  "id": "qwx_FV-08.real_extract",
+  "device_id": "qwx_FV-08",
+  "parameter": "real_extract",
+  "unit": "degP",
+  "address": "netilion:real_extract"
+ },
+ {
+  "id": "qwx_FV-08.alcohol_vol",
+  "device_id": "qwx_FV-08",
+  "parameter": "alcohol_vol",
+  "unit": "%vol",
+  "address": "netilion:alcohol_vol"
+ },
+ {
+  "id": "plc_FV-01.temperature",
+  "device_id": "plc_FV-01",
+  "parameter": "temperature",
+  "unit": "degC",
+  "address": "ns=3;s=FV01.Temp"
+ },
+ {
+  "id": "plc_FV-01.setpoint",
+  "device_id": "plc_FV-01",
+  "parameter": "setpoint",
+  "unit": "degC",
+  "address": "ns=3;s=FV01.SP"
+ },
+ {
+  "id": "plc_FV-01.pressure",
+  "device_id": "plc_FV-01",
+  "parameter": "pressure",
+  "unit": "bar",
+  "address": "ns=3;s=FV01.Press"
+ },
+ {
+  "id": "plc_FV-01.valve_open",
+  "device_id": "plc_FV-01",
+  "parameter": "valve_open",
+  "unit": "bool",
+  "address": "ns=3;s=FV01.Valve"
+ },
+ {
+  "id": "plc_FV-02.temperature",
+  "device_id": "plc_FV-02",
+  "parameter": "temperature",
+  "unit": "degC",
+  "address": "ns=3;s=FV02.Temp"
+ },
+ {
+  "id": "plc_FV-02.setpoint",
+  "device_id": "plc_FV-02",
+  "parameter": "setpoint",
+  "unit": "degC",
+  "address": "ns=3;s=FV02.SP"
+ },
+ {
+  "id": "plc_FV-02.pressure",
+  "device_id": "plc_FV-02",
+  "parameter": "pressure",
+  "unit": "bar",
+  "address": "ns=3;s=FV02.Press"
+ },
+ {
+  "id": "plc_FV-02.valve_open",
+  "device_id": "plc_FV-02",
+  "parameter": "valve_open",
+  "unit": "bool",
+  "address": "ns=3;s=FV02.Valve"
+ },
+ {
+  "id": "plc_FV-03.temperature",
+  "device_id": "plc_FV-03",
+  "parameter": "temperature",
+  "unit": "degC",
+  "address": "ns=3;s=FV03.Temp"
+ },
+ {
+  "id": "plc_FV-03.setpoint",
+  "device_id": "plc_FV-03",
+  "parameter": "setpoint",
+  "unit": "degC",
+  "address": "ns=3;s=FV03.SP"
+ },
+ {
+  "id": "plc_FV-03.pressure",
+  "device_id": "plc_FV-03",
+  "parameter": "pressure",
+  "unit": "bar",
+  "address": "ns=3;s=FV03.Press"
+ },
+ {
+  "id": "plc_FV-03.valve_open",
+  "device_id": "plc_FV-03",
+  "parameter": "valve_open",
+  "unit": "bool",
+  "address": "ns=3;s=FV03.Valve"
+ },
+ {
+  "id": "plc_FV-04.temperature",
+  "device_id": "plc_FV-04",
+  "parameter": "temperature",
+  "unit": "degC",
+  "address": "ns=3;s=FV04.Temp"
+ },
+ {
+  "id": "plc_FV-04.setpoint",
+  "device_id": "plc_FV-04",
+  "parameter": "setpoint",
+  "unit": "degC",
+  "address": "ns=3;s=FV04.SP"
+ },
+ {
+  "id": "plc_FV-04.pressure",
+  "device_id": "plc_FV-04",
+  "parameter": "pressure",
+  "unit": "bar",
+  "address": "ns=3;s=FV04.Press"
+ },
+ {
+  "id": "plc_FV-04.valve_open",
+  "device_id": "plc_FV-04",
+  "parameter": "valve_open",
+  "unit": "bool",
+  "address": "ns=3;s=FV04.Valve"
+ },
+ {
+  "id": "plc_FV-05.temperature",
+  "device_id": "plc_FV-05",
+  "parameter": "temperature",
+  "unit": "degC",
+  "address": "ns=3;s=FV05.Temp"
+ },
+ {
+  "id": "plc_FV-05.setpoint",
+  "device_id": "plc_FV-05",
+  "parameter": "setpoint",
+  "unit": "degC",
+  "address": "ns=3;s=FV05.SP"
+ },
+ {
+  "id": "plc_FV-05.pressure",
+  "device_id": "plc_FV-05",
+  "parameter": "pressure",
+  "unit": "bar",
+  "address": "ns=3;s=FV05.Press"
+ },
+ {
+  "id": "plc_FV-05.valve_open",
+  "device_id": "plc_FV-05",
+  "parameter": "valve_open",
+  "unit": "bool",
+  "address": "ns=3;s=FV05.Valve"
+ },
+ {
+  "id": "plc_FV-06.temperature",
+  "device_id": "plc_FV-06",
+  "parameter": "temperature",
+  "unit": "degC",
+  "address": "ns=3;s=FV06.Temp"
+ },
+ {
+  "id": "plc_FV-06.setpoint",
+  "device_id": "plc_FV-06",
+  "parameter": "setpoint",
+  "unit": "degC",
+  "address": "ns=3;s=FV06.SP"
+ },
+ {
+  "id": "plc_FV-06.pressure",
+  "device_id": "plc_FV-06",
+  "parameter": "pressure",
+  "unit": "bar",
+  "address": "ns=3;s=FV06.Press"
+ },
+ {
+  "id": "plc_FV-06.valve_open",
+  "device_id": "plc_FV-06",
+  "parameter": "valve_open",
+  "unit": "bool",
+  "address": "ns=3;s=FV06.Valve"
+ },
+ {
+  "id": "plc_FV-07.temperature",
+  "device_id": "plc_FV-07",
+  "parameter": "temperature",
+  "unit": "degC",
+  "address": "ns=3;s=FV07.Temp"
+ },
+ {
+  "id": "plc_FV-07.setpoint",
+  "device_id": "plc_FV-07",
+  "parameter": "setpoint",
+  "unit": "degC",
+  "address": "ns=3;s=FV07.SP"
+ },
+ {
+  "id": "plc_FV-07.pressure",
+  "device_id": "plc_FV-07",
+  "parameter": "pressure",
+  "unit": "bar",
+  "address": "ns=3;s=FV07.Press"
+ },
+ {
+  "id": "plc_FV-07.valve_open",
+  "device_id": "plc_FV-07",
+  "parameter": "valve_open",
+  "unit": "bool",
+  "address": "ns=3;s=FV07.Valve"
+ },
+ {
+  "id": "plc_FV-08.temperature",
+  "device_id": "plc_FV-08",
+  "parameter": "temperature",
+  "unit": "degC",
+  "address": "ns=3;s=FV08.Temp"
+ },
+ {
+  "id": "plc_FV-08.setpoint",
+  "device_id": "plc_FV-08",
+  "parameter": "setpoint",
+  "unit": "degC",
+  "address": "ns=3;s=FV08.SP"
+ },
+ {
+  "id": "plc_FV-08.pressure",
+  "device_id": "plc_FV-08",
+  "parameter": "pressure",
+  "unit": "bar",
+  "address": "ns=3;s=FV08.Press"
+ },
+ {
+  "id": "plc_FV-08.valve_open",
+  "device_id": "plc_FV-08",
+  "parameter": "valve_open",
+  "unit": "bool",
+  "address": "ns=3;s=FV08.Valve"
+ },
+ {
+  "id": "plc_FV-09.temperature",
+  "device_id": "plc_FV-09",
+  "parameter": "temperature",
+  "unit": "degC",
+  "address": "ns=3;s=FV09.Temp"
+ },
+ {
+  "id": "plc_FV-09.setpoint",
+  "device_id": "plc_FV-09",
+  "parameter": "setpoint",
+  "unit": "degC",
+  "address": "ns=3;s=FV09.SP"
+ },
+ {
+  "id": "plc_FV-09.pressure",
+  "device_id": "plc_FV-09",
+  "parameter": "pressure",
+  "unit": "bar",
+  "address": "ns=3;s=FV09.Press"
+ },
+ {
+  "id": "plc_FV-09.valve_open",
+  "device_id": "plc_FV-09",
+  "parameter": "valve_open",
+  "unit": "bool",
+  "address": "ns=3;s=FV09.Valve"
+ },
+ {
+  "id": "plc_FV-10.temperature",
+  "device_id": "plc_FV-10",
+  "parameter": "temperature",
+  "unit": "degC",
+  "address": "ns=3;s=FV10.Temp"
+ },
+ {
+  "id": "plc_FV-10.setpoint",
+  "device_id": "plc_FV-10",
+  "parameter": "setpoint",
+  "unit": "degC",
+  "address": "ns=3;s=FV10.SP"
+ },
+ {
+  "id": "plc_FV-10.pressure",
+  "device_id": "plc_FV-10",
+  "parameter": "pressure",
+  "unit": "bar",
+  "address": "ns=3;s=FV10.Press"
+ },
+ {
+  "id": "plc_FV-10.valve_open",
+  "device_id": "plc_FV-10",
+  "parameter": "valve_open",
+  "unit": "bool",
+  "address": "ns=3;s=FV10.Valve"
+ },
+ {
+  "id": "plc_FV-11.temperature",
+  "device_id": "plc_FV-11",
+  "parameter": "temperature",
+  "unit": "degC",
+  "address": "ns=3;s=FV11.Temp"
+ },
+ {
+  "id": "plc_FV-11.setpoint",
+  "device_id": "plc_FV-11",
+  "parameter": "setpoint",
+  "unit": "degC",
+  "address": "ns=3;s=FV11.SP"
+ },
+ {
+  "id": "plc_FV-11.pressure",
+  "device_id": "plc_FV-11",
+  "parameter": "pressure",
+  "unit": "bar",
+  "address": "ns=3;s=FV11.Press"
+ },
+ {
+  "id": "plc_FV-11.valve_open",
+  "device_id": "plc_FV-11",
+  "parameter": "valve_open",
+  "unit": "bool",
+  "address": "ns=3;s=FV11.Valve"
+ },
+ {
+  "id": "plc_FV-12.temperature",
+  "device_id": "plc_FV-12",
+  "parameter": "temperature",
+  "unit": "degC",
+  "address": "ns=3;s=FV12.Temp"
+ },
+ {
+  "id": "plc_FV-12.setpoint",
+  "device_id": "plc_FV-12",
+  "parameter": "setpoint",
+  "unit": "degC",
+  "address": "ns=3;s=FV12.SP"
+ },
+ {
+  "id": "plc_FV-12.pressure",
+  "device_id": "plc_FV-12",
+  "parameter": "pressure",
+  "unit": "bar",
+  "address": "ns=3;s=FV12.Press"
+ },
+ {
+  "id": "plc_FV-12.valve_open",
+  "device_id": "plc_FV-12",
+  "parameter": "valve_open",
+  "unit": "bool",
+  "address": "ns=3;s=FV12.Valve"
+ },
+ {
+  "id": "plc_BBT-01.temperature",
+  "device_id": "plc_BBT-01",
+  "parameter": "temperature",
+  "unit": "degC",
+  "address": "HR410"
+ },
+ {
+  "id": "plc_BBT-01.pressure",
+  "device_id": "plc_BBT-01",
+  "parameter": "pressure",
+  "unit": "bar",
+  "address": "HR411"
+ },
+ {
+  "id": "plc_BBT-01.level",
+  "device_id": "plc_BBT-01",
+  "parameter": "level",
+  "unit": "%",
+  "address": "HR412"
+ },
+ {
+  "id": "plc_BBT-02.temperature",
+  "device_id": "plc_BBT-02",
+  "parameter": "temperature",
+  "unit": "degC",
+  "address": "HR420"
+ },
+ {
+  "id": "plc_BBT-02.pressure",
+  "device_id": "plc_BBT-02",
+  "parameter": "pressure",
+  "unit": "bar",
+  "address": "HR421"
+ },
+ {
+  "id": "plc_BBT-02.level",
+  "device_id": "plc_BBT-02",
+  "parameter": "level",
+  "unit": "%",
+  "address": "HR422"
+ },
+ {
+  "id": "plc_BBT-03.temperature",
+  "device_id": "plc_BBT-03",
+  "parameter": "temperature",
+  "unit": "degC",
+  "address": "HR430"
+ },
+ {
+  "id": "plc_BBT-03.pressure",
+  "device_id": "plc_BBT-03",
+  "parameter": "pressure",
+  "unit": "bar",
+  "address": "HR431"
+ },
+ {
+  "id": "plc_BBT-03.level",
+  "device_id": "plc_BBT-03",
+  "parameter": "level",
+  "unit": "%",
+  "address": "HR432"
+ },
+ {
+  "id": "plc_BBT-04.temperature",
+  "device_id": "plc_BBT-04",
+  "parameter": "temperature",
+  "unit": "degC",
+  "address": "HR440"
+ },
+ {
+  "id": "plc_BBT-04.pressure",
+  "device_id": "plc_BBT-04",
+  "parameter": "pressure",
+  "unit": "bar",
+  "address": "HR441"
+ },
+ {
+  "id": "plc_BBT-04.level",
+  "device_id": "plc_BBT-04",
+  "parameter": "level",
+  "unit": "%",
+  "address": "HR442"
+ },
+ {
+  "id": "plc_BH-01.mash_temperature",
+  "device_id": "plc_BH-01",
+  "parameter": "mash_temperature",
+  "unit": "degC",
+  "address": "PN:slot2/ch1"
+ },
+ {
+  "id": "plc_BH-01.kettle_temperature",
+  "device_id": "plc_BH-01",
+  "parameter": "kettle_temperature",
+  "unit": "degC",
+  "address": "PN:slot2/ch2"
+ },
+ {
+  "id": "plc_BH-01.wort_flow",
+  "device_id": "plc_BH-01",
+  "parameter": "wort_flow",
+  "unit": "hl/h",
+  "address": "PN:slot3/ch1"
+ },
+ {
+  "id": "eh_ph_BH-01.ph",
+  "device_id": "eh_ph_BH-01",
+  "parameter": "ph",
+  "unit": "pH",
+  "address": "eh:ph"
+ },
+ {
+  "id": "eh_do_PKG-01.dissolved_oxygen",
+  "device_id": "eh_do_PKG-01",
+  "parameter": "dissolved_oxygen",
+  "unit": "ppb",
+  "address": "eh:do"
+ },
+ {
+  "id": "eh_co2_PKG-01.co2",
+  "device_id": "eh_co2_PKG-01",
+  "parameter": "co2",
+  "unit": "g/l",
+  "address": "eh:co2"
+ }
+]

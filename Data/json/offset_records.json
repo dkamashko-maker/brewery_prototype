@@ -1,0 +1,138 @@
+[
+ {
+  "id": "off_FV-01",
+  "device_id": "qwx_FV-01",
+  "date": "2026-09-25T08:00:00Z",
+  "wort_composition": {
+   "og_degP": 12.0,
+   "malt": "Pilsner malt",
+   "lab_extract_degP": 12.02
+  },
+  "lab_values": {
+   "apparent_extract": 2.41,
+   "alcohol_vol": 5.02
+  },
+  "correction": {
+   "alcohol_vol": 0.005
+  }
+ },
+ {
+  "id": "off_FV-02",
+  "device_id": "qwx_FV-02",
+  "date": "2026-06-18T08:00:00Z",
+  "wort_composition": {
+   "og_degP": 12.0,
+   "malt": "Pilsner malt",
+   "lab_extract_degP": 12.02
+  },
+  "lab_values": {
+   "apparent_extract": 2.41,
+   "alcohol_vol": 5.02
+  },
+  "correction": {
+   "alcohol_vol": -0.008
+  }
+ },
+ {
+  "id": "off_FV-03",
+  "device_id": "qwx_FV-03",
+  "date": "2026-09-29T08:00:00Z",
+  "wort_composition": {
+   "og_degP": 12.0,
+   "malt": "Pilsner malt",
+   "lab_extract_degP": 12.02
+  },
+  "lab_values": {
+   "apparent_extract": 2.41,
+   "alcohol_vol": 5.02
+  },
+  "correction": {
+   "alcohol_vol": -0.002
+  }
+ },
+ {
+  "id": "off_FV-04",
+  "device_id": "qwx_FV-04",
+  "date": "2026-09-30T08:00:00Z",
+  "wort_composition": {
+   "og_degP": 12.0,
+   "malt": "Pilsner malt",
+   "lab_extract_degP": 12.02
+  },
+  "lab_values": {
+   "apparent_extract": 2.41,
+   "alcohol_vol": 5.02
+  },
+  "correction": {
+   "alcohol_vol": 0.013
+  }
+ },
+ {
+  "id": "off_FV-05",
+  "device_id": "qwx_FV-05",
+  "date": "2026-08-02T08:00:00Z",
+  "wort_composition": {
+   "og_degP": 12.0,
+   "malt": "Pilsner malt",
+   "lab_extract_degP": 12.02
+  },
+  "lab_values": {
+   "apparent_extract": 2.41,
+   "alcohol_vol": 5.02
+  },
+  "correction": {
+   "alcohol_vol": -0.011
+  }
+ },
+ {
+  "id": "off_FV-06",
+  "device_id": "qwx_FV-06",
+  "date": "2026-09-14T08:00:00Z",
+  "wort_composition": {
+   "og_degP": 12.0,
+   "malt": "Pilsner malt",
+   "lab_extract_degP": 12.02
+  },
+  "lab_values": {
+   "apparent_extract": 2.41,
+   "alcohol_vol": 5.02
+  },
+  "correction": {
+   "alcohol_vol": 0.017
+  }
+ },
+ {
+  "id": "off_FV-07",
+  "device_id": "qwx_FV-07",
+  "date": "2026-08-05T08:00:00Z",
+  "wort_composition": {
+   "og_degP": 12.0,
+   "malt": "Pilsner malt",
+   "lab_extract_degP": 12.02
+  },
+  "lab_values": {
+   "apparent_extract": 2.41,
+   "alcohol_vol": 5.02
+  },
+  "correction": {
+   "alcohol_vol": 0.023
+  }
+ },
+ {
+  "id": "off_FV-08",
+  "device_id": "qwx_FV-08",
+  "date": "2026-09-06T08:00:00Z",
+  "wort_composition": {
+   "og_degP": 12.0,
+   "malt": "Pilsner malt",
+   "lab_extract_degP": 12.02
+  },
+  "lab_values": {
+   "apparent_extract": 2.41,
+   "alcohol_vol": 5.02
+  },
+  "correction": {
+   "alcohol_vol": -0.011
+  }
+ }
+]

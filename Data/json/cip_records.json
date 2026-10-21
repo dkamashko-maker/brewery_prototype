@@ -1,0 +1,1481 @@
+[
+ {
+  "id": "cip_2601",
+  "vessel_id": "FV-01",
+  "start": "2026-08-08T08:30:00Z",
+  "end": "2026-08-08T11:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2602",
+  "vessel_id": "FV-01",
+  "start": "2026-08-21T23:30:00Z",
+  "end": "2026-08-22T02:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2603",
+  "vessel_id": "FV-01",
+  "start": "2026-09-04T10:30:00Z",
+  "end": "2026-09-04T13:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2604",
+  "vessel_id": "FV-01",
+  "start": "2026-09-17T15:30:00Z",
+  "end": "2026-09-17T18:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2605",
+  "vessel_id": "FV-01",
+  "start": "2026-10-01T03:30:00Z",
+  "end": "2026-10-01T06:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2606",
+  "vessel_id": "FV-01",
+  "start": "2026-10-14T19:30:00Z",
+  "end": "2026-10-14T22:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2608",
+  "vessel_id": "FV-02",
+  "start": "2026-08-08T16:30:00Z",
+  "end": "2026-08-08T19:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2609",
+  "vessel_id": "FV-02",
+  "start": "2026-08-21T19:30:00Z",
+  "end": "2026-08-21T22:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2610",
+  "vessel_id": "FV-02",
+  "start": "2026-09-04T15:30:00Z",
+  "end": "2026-09-04T18:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2611",
+  "vessel_id": "FV-02",
+  "start": "2026-09-18T02:30:00Z",
+  "end": "2026-09-18T05:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2612",
+  "vessel_id": "FV-02",
+  "start": "2026-10-01T10:30:00Z",
+  "end": "2026-10-01T13:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2613",
+  "vessel_id": "FV-02",
+  "start": "2026-10-14T16:30:00Z",
+  "end": "2026-10-14T19:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2615",
+  "vessel_id": "FV-03",
+  "start": "2026-08-08T16:30:00Z",
+  "end": "2026-08-08T19:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2616",
+  "vessel_id": "FV-03",
+  "start": "2026-08-22T00:30:00Z",
+  "end": "2026-08-22T03:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2617",
+  "vessel_id": "FV-03",
+  "start": "2026-09-04T01:30:00Z",
+  "end": "2026-09-04T04:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2618",
+  "vessel_id": "FV-03",
+  "start": "2026-09-17T01:30:00Z",
+  "end": "2026-09-17T04:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2619",
+  "vessel_id": "FV-03",
+  "start": "2026-09-30T11:30:00Z",
+  "end": "2026-09-30T14:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2620",
+  "vessel_id": "FV-03",
+  "start": "2026-10-13T12:30:00Z",
+  "end": "2026-10-13T15:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2622",
+  "vessel_id": "FV-04",
+  "start": "2026-08-04T04:30:00Z",
+  "end": "2026-08-04T07:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2623",
+  "vessel_id": "FV-04",
+  "start": "2026-08-13T18:30:00Z",
+  "end": "2026-08-13T21:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2624",
+  "vessel_id": "FV-04",
+  "start": "2026-08-23T01:30:00Z",
+  "end": "2026-08-23T04:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2625",
+  "vessel_id": "FV-04",
+  "start": "2026-09-02T06:30:00Z",
+  "end": "2026-09-02T09:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2626",
+  "vessel_id": "FV-04",
+  "start": "2026-09-12T02:30:00Z",
+  "end": "2026-09-12T05:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2627",
+  "vessel_id": "FV-04",
+  "start": "2026-09-22T01:30:00Z",
+  "end": "2026-09-22T04:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2628",
+  "vessel_id": "FV-04",
+  "start": "2026-10-01T10:30:00Z",
+  "end": "2026-10-01T13:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2629",
+  "vessel_id": "FV-04",
+  "start": "2026-10-11T04:30:00Z",
+  "end": "2026-10-11T07:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2630",
+  "vessel_id": "FV-04",
+  "start": "2026-10-20T12:30:00Z",
+  "end": "2026-10-20T15:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2631",
+  "vessel_id": "FV-05",
+  "start": "2026-08-02T12:30:00Z",
+  "end": "2026-08-02T15:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2632",
+  "vessel_id": "FV-05",
+  "start": "2026-08-12T14:30:00Z",
+  "end": "2026-08-12T17:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2633",
+  "vessel_id": "FV-05",
+  "start": "2026-08-22T15:30:00Z",
+  "end": "2026-08-22T18:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2634",
+  "vessel_id": "FV-05",
+  "start": "2026-09-01T08:30:00Z",
+  "end": "2026-09-01T11:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2635",
+  "vessel_id": "FV-05",
+  "start": "2026-09-11T08:30:00Z",
+  "end": "2026-09-11T11:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2636",
+  "vessel_id": "FV-05",
+  "start": "2026-09-20T20:30:00Z",
+  "end": "2026-09-20T23:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2637",
+  "vessel_id": "FV-05",
+  "start": "2026-10-01T00:30:00Z",
+  "end": "2026-10-01T03:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2638",
+  "vessel_id": "FV-05",
+  "start": "2026-10-10T08:30:00Z",
+  "end": "2026-10-10T11:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2639",
+  "vessel_id": "FV-05",
+  "start": "2026-10-21T03:30:00Z",
+  "end": "2026-10-21T06:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": null,
+  "operator": null,
+  "status": "unconfirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2640",
+  "vessel_id": "FV-06",
+  "start": "2026-08-05T01:30:00Z",
+  "end": "2026-08-05T04:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2641",
+  "vessel_id": "FV-06",
+  "start": "2026-08-14T16:30:00Z",
+  "end": "2026-08-14T19:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2642",
+  "vessel_id": "FV-06",
+  "start": "2026-08-24T00:30:00Z",
+  "end": "2026-08-24T03:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2643",
+  "vessel_id": "FV-06",
+  "start": "2026-09-02T13:30:00Z",
+  "end": "2026-09-02T16:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2644",
+  "vessel_id": "FV-06",
+  "start": "2026-09-11T22:30:00Z",
+  "end": "2026-09-12T01:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2645",
+  "vessel_id": "FV-06",
+  "start": "2026-09-21T16:30:00Z",
+  "end": "2026-09-21T19:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2646",
+  "vessel_id": "FV-06",
+  "start": "2026-10-01T06:30:00Z",
+  "end": "2026-10-01T09:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2647",
+  "vessel_id": "FV-06",
+  "start": "2026-10-11T02:30:00Z",
+  "end": "2026-10-11T05:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2648",
+  "vessel_id": "FV-06",
+  "start": "2026-10-21T04:30:00Z",
+  "end": "2026-10-21T07:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2649",
+  "vessel_id": "FV-07",
+  "start": "2026-08-05T11:30:00Z",
+  "end": "2026-08-05T14:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2650",
+  "vessel_id": "FV-07",
+  "start": "2026-08-18T20:30:00Z",
+  "end": "2026-08-18T23:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2651",
+  "vessel_id": "FV-07",
+  "start": "2026-09-01T05:30:00Z",
+  "end": "2026-09-01T08:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2652",
+  "vessel_id": "FV-07",
+  "start": "2026-09-14T09:30:00Z",
+  "end": "2026-09-14T12:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2653",
+  "vessel_id": "FV-07",
+  "start": "2026-09-28T04:30:00Z",
+  "end": "2026-09-28T07:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2654",
+  "vessel_id": "FV-07",
+  "start": "2026-10-11T10:30:00Z",
+  "end": "2026-10-11T13:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2656",
+  "vessel_id": "FV-08",
+  "start": "2026-08-08T01:30:00Z",
+  "end": "2026-08-08T04:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2657",
+  "vessel_id": "FV-08",
+  "start": "2026-08-21T01:30:00Z",
+  "end": "2026-08-21T04:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2658",
+  "vessel_id": "FV-08",
+  "start": "2026-09-03T18:30:00Z",
+  "end": "2026-09-03T21:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2659",
+  "vessel_id": "FV-08",
+  "start": "2026-09-17T12:30:00Z",
+  "end": "2026-09-17T15:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2660",
+  "vessel_id": "FV-08",
+  "start": "2026-09-30T15:30:00Z",
+  "end": "2026-09-30T18:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2661",
+  "vessel_id": "FV-08",
+  "start": "2026-10-14T06:30:00Z",
+  "end": "2026-10-14T09:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2663",
+  "vessel_id": "FV-09",
+  "start": "2026-08-05T11:30:00Z",
+  "end": "2026-08-05T14:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2664",
+  "vessel_id": "FV-09",
+  "start": "2026-08-18T23:30:00Z",
+  "end": "2026-08-19T02:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2665",
+  "vessel_id": "FV-09",
+  "start": "2026-09-01T09:30:00Z",
+  "end": "2026-09-01T12:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2666",
+  "vessel_id": "FV-09",
+  "start": "2026-09-14T15:30:00Z",
+  "end": "2026-09-14T18:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2667",
+  "vessel_id": "FV-09",
+  "start": "2026-09-28T09:30:00Z",
+  "end": "2026-09-28T12:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2668",
+  "vessel_id": "FV-09",
+  "start": "2026-10-12T05:30:00Z",
+  "end": "2026-10-12T08:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2670",
+  "vessel_id": "FV-10",
+  "start": "2026-08-04T14:30:00Z",
+  "end": "2026-08-04T17:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2671",
+  "vessel_id": "FV-10",
+  "start": "2026-08-14T06:30:00Z",
+  "end": "2026-08-14T09:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2672",
+  "vessel_id": "FV-10",
+  "start": "2026-08-24T12:30:00Z",
+  "end": "2026-08-24T15:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2673",
+  "vessel_id": "FV-10",
+  "start": "2026-09-03T18:30:00Z",
+  "end": "2026-09-03T21:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2674",
+  "vessel_id": "FV-10",
+  "start": "2026-09-13T01:30:00Z",
+  "end": "2026-09-13T04:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2675",
+  "vessel_id": "FV-10",
+  "start": "2026-09-22T14:30:00Z",
+  "end": "2026-09-22T17:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2676",
+  "vessel_id": "FV-10",
+  "start": "2026-10-01T21:30:00Z",
+  "end": "2026-10-02T00:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2677",
+  "vessel_id": "FV-10",
+  "start": "2026-10-11T13:30:00Z",
+  "end": "2026-10-11T16:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2678",
+  "vessel_id": "FV-10",
+  "start": "2026-10-21T07:30:00Z",
+  "end": "2026-10-21T10:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2679",
+  "vessel_id": "FV-11",
+  "start": "2026-08-01T07:30:00Z",
+  "end": "2026-08-01T10:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2680",
+  "vessel_id": "FV-11",
+  "start": "2026-08-10T19:30:00Z",
+  "end": "2026-08-10T22:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2681",
+  "vessel_id": "FV-11",
+  "start": "2026-08-20T19:30:00Z",
+  "end": "2026-08-20T22:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2682",
+  "vessel_id": "FV-11",
+  "start": "2026-08-30T23:30:00Z",
+  "end": "2026-08-31T02:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2683",
+  "vessel_id": "FV-11",
+  "start": "2026-09-09T15:30:00Z",
+  "end": "2026-09-09T18:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2684",
+  "vessel_id": "FV-11",
+  "start": "2026-09-19T03:30:00Z",
+  "end": "2026-09-19T06:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2685",
+  "vessel_id": "FV-11",
+  "start": "2026-09-29T05:30:00Z",
+  "end": "2026-09-29T08:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2686",
+  "vessel_id": "FV-11",
+  "start": "2026-10-09T02:30:00Z",
+  "end": "2026-10-09T05:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2687",
+  "vessel_id": "FV-11",
+  "start": "2026-10-18T20:30:00Z",
+  "end": "2026-10-18T23:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2689",
+  "vessel_id": "FV-12",
+  "start": "2026-08-05T09:30:00Z",
+  "end": "2026-08-05T12:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2690",
+  "vessel_id": "FV-12",
+  "start": "2026-08-18T15:30:00Z",
+  "end": "2026-08-18T18:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2691",
+  "vessel_id": "FV-12",
+  "start": "2026-08-31T17:30:00Z",
+  "end": "2026-08-31T20:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2692",
+  "vessel_id": "FV-12",
+  "start": "2026-09-13T22:30:00Z",
+  "end": "2026-09-14T01:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2693",
+  "vessel_id": "FV-12",
+  "start": "2026-09-27T19:30:00Z",
+  "end": "2026-09-27T22:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ },
+ {
+  "id": "cip_2694",
+  "vessel_id": "FV-12",
+  "start": "2026-10-11T10:30:00Z",
+  "end": "2026-10-11T13:30:00Z",
+  "media_detected": [
+   "water",
+   "caustic",
+   "water",
+   "acid",
+   "water"
+  ],
+  "detergent": "det_1",
+  "operator": "u_cellar_operator",
+  "status": "confirmed",
+  "source": "detected"
+ }
+]
